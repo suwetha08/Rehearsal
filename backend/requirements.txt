@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+websockets
+groq
+python-dotenv
